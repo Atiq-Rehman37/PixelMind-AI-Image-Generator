@@ -1,4 +1,4 @@
-# 🎨 PixelMind
+# PixelMind | AI Image Generator
 
 PixelMind is a full-stack AI Image Generator built with the **MERN Stack**. Users can securely register, log in, and generate AI-powered images from text prompts using the ClipDrop API.
 
