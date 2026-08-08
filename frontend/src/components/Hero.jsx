@@ -35,8 +35,8 @@ const Hero = () => {
           {/* Description */}
           <p className="mt-6 max-w-lg text-base leading-8 text-slate-600 md:text-lg">
             Transform simple text prompts into beautiful AI-generated artwork.
-            Create realistic portraits, fantasy worlds, digital illustrations,
-            and more in just a few seconds with PixelMind.
+            Create realistic images, portraits, fantasy worlds, digital
+            illustrations, and more with PixelMind.
           </p>
 
           {/* Button */}
@@ -45,7 +45,7 @@ const Hero = () => {
               onClick={() => navigate("/generate")}
               className="group flex items-center gap-2 rounded-xl bg-violet-600 px-8 py-4 font-semibold text-white shadow-lg transition-all duration-300 hover:-translate-y-1 hover:bg-violet-700 hover:shadow-xl cursor-pointer"
             >
-              ✨ Start Creating
+              Start Creating
               <ArrowRight
                 size={18}
                 className="transition-transform duration-300 group-hover:translate-x-1"
@@ -88,7 +88,7 @@ const Hero = () => {
             <p className="text-xs text-slate-500">Prompt</p>
 
             <h3 className="mt-1 text-sm font-semibold text-slate-800">
-              🏰 Fantasy Castle
+              Fantasy Castle
             </h3>
           </div>
 
@@ -97,7 +97,7 @@ const Hero = () => {
             <p className="text-xs text-slate-500">Style</p>
 
             <h3 className="mt-1 text-sm font-semibold text-slate-800">
-              🎨 Photorealistic
+              Photorealistic
             </h3>
           </div>
 
@@ -106,7 +106,7 @@ const Hero = () => {
             <p className="text-xs text-slate-500">Quality</p>
 
             <h3 className="mt-1 text-sm font-semibold text-slate-800">
-              ⚡ Ultra HD
+              Ultra HD
             </h3>
           </div>
         </div>
