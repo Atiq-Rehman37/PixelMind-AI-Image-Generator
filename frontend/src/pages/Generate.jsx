@@ -16,27 +16,27 @@ const Generate = () => {
 
   const suggestions = [
     {
-      title: "🏰 Fantasy Castle",
+      title: "Fantasy Castle",
       prompt:
         "A fantasy castle floating above the clouds, cinematic lighting, ultra realistic, 8k",
     },
     {
-      title: "🚀 Astronaut on Mars",
+      title: "Astronaut on Mars",
       prompt:
         "An astronaut walking on Mars during sunset, cinematic lighting, ultra realistic",
     },
     {
-      title: "🌸 Anime Girl",
+      title: "Anime Girl",
       prompt:
         "Beautiful anime girl under cherry blossoms, detailed, vibrant colors",
     },
     {
-      title: "🌆 Cyberpunk City",
+      title: "Cyberpunk City",
       prompt:
         "A futuristic cyberpunk city at night with neon lights, ultra detailed",
     },
     {
-      title: "🐉 Fire Dragon",
+      title: "Fire Dragon",
       prompt:
         "A giant fire dragon flying above mountains, fantasy art, cinematic",
     },
